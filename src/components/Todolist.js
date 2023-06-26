@@ -6,6 +6,8 @@ function Todolist() {
     <div className="todolist">
       <h2>List items</h2>
       <Item />
+      <Item />
+      <Item />
       <h2>Completed</h2>
     </div>
   );
