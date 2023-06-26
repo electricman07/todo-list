@@ -1,0 +1,19 @@
+.form {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.form label {
+  font-size: 24px;
+}
+
+.form input {
+  margin-left: 5px;
+  font-size: 36px;
+}
+
+.form .btn {
+  font-size: 36px;
+}
