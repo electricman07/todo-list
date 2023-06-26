@@ -1,7 +1,6 @@
 .item {
   display: flex;
   flex-direction: row;
-  /* align-items: center; */
 }
 
 .item p {
@@ -11,7 +10,4 @@
 .item span {
   font-size: 1.5rem;
   cursor: pointer;
-}
-
-.item input {
 }
