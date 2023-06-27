@@ -8,3 +8,9 @@
 .todolist .item {
   margin-left: 20px;
 }
+
+.listItems {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
